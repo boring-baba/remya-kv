@@ -125,7 +125,7 @@
     .section-tittle3{
         position: absolute;
         bottom: -60px;
-        left: 150px;
+        left: 100px;
         line-height: 1;
         z-index: 0;
          @media #{$md}{
@@ -144,7 +144,7 @@
         }
         h2 {
             font-family: $font_3;
-            font-size: 220px;
+            font-size: 150px;
             font-weight: 700;
             -webkit-text-stroke: 1px rgba(255, 255, 255,.2);
             -webkit-text-fill-color: transparent;
