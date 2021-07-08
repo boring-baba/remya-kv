@@ -144,20 +144,20 @@
         }
         h2 {
             font-family: $font_3;
-            font-size: 90px;
+            font-size: 50px;
             font-weight: 700;
             -webkit-text-stroke: 1px #fff;
             -webkit-text-fill-color: transparent;
             margin: 0;
             line-height: 1;
             @media #{$md}{
-                font-size: 142px;
+                font-size: 71px;
             }
             @media #{$sm}{
-                font-size: 125px;
+                font-size: 75px;
             }
             @media #{$xs}{
-                font-size: 80px;
+                font-size: 40px;
             }
         }
     }
