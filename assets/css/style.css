@@ -3036,7 +3036,7 @@ hr {
 }
 
 .header-sticky.sticky-bar {
-  background: #F4A261;
+  background: #E76F51;
 }
 
 .header-sticky.sticky-bar.sticky .main-menu ul li a {
@@ -3162,13 +3162,13 @@ hr {
 }
 
 .slider-bg1 {
-  background-color: #DDAF94;
+  background-color: #F4A261;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .slider-bg2 {
-  background-color: #DDAF94;
+  background-color: #F4A261;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -3292,9 +3292,9 @@ hr {
 
 .slider-area .section-tittle3 h2 {
   font-family: "Shippori Mincho", serif;
-  font-size: 150px;
+  font-size: 90px;
   font-weight: 700;
-  -webkit-text-stroke: 1px #E76F51;
+  -webkit-text-stroke: 1px #fff;
   -webkit-text-fill-color: transparent;
   margin: 0;
   line-height: 1;
@@ -3668,7 +3668,7 @@ hr {
 }
 
 .t-color {
-  background: #F4A261;
+  background: #E76F51;
 }
 
 .services-area1 {

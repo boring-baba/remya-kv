@@ -36,14 +36,14 @@
 // Slider Bg
 
 .slider-bg1{
-    background-color: #DDAF94;
+    background-color: #F4A261;
     // background-image: url(../img/hero/h1_hero1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .slider-bg2{
-    background-color: #DDAF94;
+    background-color: #F4A261;
     // background-image: url(../img/hero/h2_hero1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -144,9 +144,9 @@
         }
         h2 {
             font-family: $font_3;
-            font-size: 150px;
+            font-size: 90px;
             font-weight: 700;
-            -webkit-text-stroke: 1px #E76F51;
+            -webkit-text-stroke: 1px #fff;
             -webkit-text-fill-color: transparent;
             margin: 0;
             line-height: 1;
