@@ -106,7 +106,7 @@
   $('.services-active').slick({
     dots: false,
     autoplay: true,
-    autoplaySpeed: 8000,
+    autoplaySpeed: 1000,
     infinite: true,
     speed: 300,
     arrows: false,
@@ -152,6 +152,7 @@
         infinite: true,
         speed: 1000,
         autoplay:true,
+        autoplaySpeed: 3000,
         loop:true,
         arrows: false,
         prevArrow: '<button type="button" class="slick-prev"><i class="ti-arrow-top-left"></i></button>',
