@@ -1,2 +1,2 @@
 # remya-kv
-This repository belongs to Life Coach Remya 
+This repository powers www.remyakv.com
